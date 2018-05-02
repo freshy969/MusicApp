@@ -1,0 +1,31 @@
+follow -u cindy -p favourites -f cindy
+follow -u cindy -p non_existing_list -f ajones
+follow -u cindy -p favourites -f ajones
+add -l ajones favourites 19
+show users
+
+follow -u fjones -p favourites -f ajones
+add -l ajones favourites 20
+show users
+
+follow -u fjones -p mysongs -f gjones
+show users
+
+follow -u cindy -p favourites -f stop
+delete -u ajones -p favourites -t 70
+show users
+
+follow -u ajones -p favourites -f fjones
+delete -u ajones -p favourites -t 71
+delete -u fjones -p favourites -t 11
+show users
+
+delete -u ajones -p favourites
+show users
+
+add -p gjones favourites
+follow -u cindy -p favourites -f fjones
+follow -u fjones -p favourites -f gjones
+follow -u gjones -p favourites -f cindy
+add -l cindy favourites 42
+show users

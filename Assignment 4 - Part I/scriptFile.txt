@@ -1,0 +1,28 @@
+add -u arsal "Arsal Abbas"
+add -u jfarooqui "Junaid Farooqui"
+
+show users
+
+add -p arsal "upcoming"
+add -p jfarooqui "listen"
+
+show songs
+
+show playlists -u jfarooqui
+show playlists -u ajones
+
+show recordings
+
+delete -s 1003
+delete -s 1008
+
+delete -s 1081 -p "mysongs" -u gjones
+delete -s 1025 -p "driving" -u ajones
+
+delete -r 104
+delete -r 106
+
+delete -Global -s 1069 -p "favourites" -u ajones  
+
+delete -u sjones
+delete -u fjones

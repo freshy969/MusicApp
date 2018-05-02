@@ -1,0 +1,9 @@
+1. DR - the text file used should be of format like in inputPartII.txt (for eg : add -r 100 "With The Beatles" "Beatles" "George Martin" 1963 or add -s 1001 "Misery" "Paul McCartney, John Lennon")
+   only strings with -r and -s are taken as input in my engine because of no other available data.
+2. FR - for memory saving the strings were mapped to int and vice versa for correct usage.
+3. FR - Each song is given an id or mappped to unique id. The words int he string use this id in their occurence vector.
+4. FR - Each word in string is converted to lower case before adding to dictionary.
+5. FR - Punctuations are removed from each sentence.
+6. FR - If input is multiple words then intersection of vectors of the all the words is taken as final answer.
+7. FR - Sentences are broken down to indivisual words using whitespace as a delimiter.
+8. SR - Some functions used require latest version of c++.
