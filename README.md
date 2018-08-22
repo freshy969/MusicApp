@@ -7,8 +7,8 @@
     
             (c) Syed Arsal Abbas
 
-	    This was a Freelance Work done
-	    for one of my clients Mr. Harshit Khurana
+	    Freelance Work done for one of my clients 
+	    Mr. Harshit Khurana
                                                      
 /* * * * * * * * * * * * * * * * * * * * * * * * * * */
 
