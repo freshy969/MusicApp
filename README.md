@@ -6,12 +6,7 @@
             Authors:                              
     
               (c) Syed Arsal Abbas
-                  100835968
 
-              (c) Muhmammad Junaid Farooqui
-                  100912649
-                          
-            Due Date:     5-DEC-2017
                                                      
 /* * * * * * * * * * * * * * * * * * * * * * * * * * */
 

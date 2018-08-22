@@ -3,10 +3,6 @@
 #	Code Written by:
 #    
 #   Syed Arsal Abbas
-#   100835968
-#
-#   Muhmammad Junaid Farooqui
-#   100912649
 # 	
 #=============================
 
