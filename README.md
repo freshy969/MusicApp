@@ -5,8 +5,10 @@
             Program:  Tuner Pro          
             Authors:                              
     
-              (c) Syed Arsal Abbas
+            (c) Syed Arsal Abbas
 
+	    This was a Freelance Woork done
+	    for one of my clients Mr. Harshit Khurana
                                                      
 /* * * * * * * * * * * * * * * * * * * * * * * * * * */
 
