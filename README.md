@@ -7,7 +7,7 @@
     
             (c) Syed Arsal Abbas
 
-	    This was a Freelance Woork done
+	    This was a Freelance Work done
 	    for one of my clients Mr. Harshit Khurana
                                                      
 /* * * * * * * * * * * * * * * * * * * * * * * * * * */
