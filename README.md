@@ -15,7 +15,7 @@
 
 Instructions to execute the Program:
 	
-	PartI:
+	I:
 
 		1) 	The user will Compile the code using "make" command
 
@@ -48,9 +48,9 @@ Instructions to execute the Program:
 
 		4)	The user can simply type ".quit" command to exit the program.
 
-	PartII:
+	II:
 
-		Our PartII is basically an implementation of a search engine, given a proper set of input data. 
+		PartII is basically an implementation of a search engine, given a proper set of input data. 
 
 		instruction to compile and run:
 
@@ -61,6 +61,3 @@ Instructions to execute the Program:
 			3) The program will prompt you to enter the song name or a word contained in the song you want to search. Hit enter once you've added your input
 
 			4) It will output all the relevant songs.
-
-			5) Once done, give us full marks :D
-			// LOL remove this line bro.
